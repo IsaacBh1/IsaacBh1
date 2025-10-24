@@ -1,4 +1,4 @@
-## Welcome , I'm Ishaq Boukadah 
+## Welcome , I'm Ishaq Boukaddah 
 
 . **Backend Developer | .NET / C#**  
 . Passionate about building clean, efficient, and scalable web applications.  
